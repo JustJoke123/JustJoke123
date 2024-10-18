@@ -1,1 +1,1 @@
-Just a Discord Bot Developer
+Just a Developer
